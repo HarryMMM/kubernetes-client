@@ -24,10 +24,8 @@
 /.nb-gradle/
 /mvnw
 /mvnw.cmd
-.gitignore
 .mvn/
-mvnw
-mvnw.cmd
 
 
-!/.gitignore
+
+
